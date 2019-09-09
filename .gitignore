@@ -5,3 +5,4 @@ config.js
 myDatabase/
 db/
 log.txt
+node_modules
